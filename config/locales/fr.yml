@@ -1804,6 +1804,10 @@ fr:
     contrast: Mastodon (Contraste élevé)
     default: Mastodon (Sombre)
     mastodon-light: Mastodon (Clair)
+    tangerineui: Tangerine UI
+    tangerineui-purple: Tangerine UI (Purple)
+    tangerineui-cherry: Tangerine UI (Cherry)
+    tangerineui-lagoon: Tangerine UI (Lagoon)
     system: Automatique (utiliser le thème système)
   time:
     formats:

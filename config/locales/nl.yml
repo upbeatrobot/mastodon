@@ -1804,6 +1804,10 @@ nl:
     contrast: Mastodon (hoog contrast)
     default: Mastodon (donker)
     mastodon-light: Mastodon (licht)
+    tangerineui: Tangerine UI
+    tangerineui-purple: Tangerine UI (Paars)
+    tangerineui-cherry: Tangerine UI (Kersenrood)
+    tangerineui-lagoon: Tangerine UI (Lagoon)
     system: Automatisch (systeemthema gebruiken)
   time:
     formats:
