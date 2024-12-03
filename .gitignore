@@ -4,10 +4,6 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
-
-# Ignore .github for our local fork
-/.github
-
 # Ignore bundler config and downloaded libraries.
 /.bundle
 /vendor/bundle
@@ -78,3 +74,6 @@ docker-compose.override.yml
 
 # Ignore local-only rspec configuration
 .rspec-local
+
+# Ignore .github for our local fork
+/.github
